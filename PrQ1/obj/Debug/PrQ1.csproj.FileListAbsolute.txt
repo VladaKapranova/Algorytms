@@ -1,0 +1,6 @@
+D:\prog\PrQ1\bin\Debug\PrQ1.exe.config
+D:\prog\PrQ1\bin\Debug\PrQ1.exe
+D:\prog\PrQ1\bin\Debug\PrQ1.pdb
+D:\prog\PrQ1\obj\Debug\PrQ1.csprojResolveAssemblyReference.cache
+D:\prog\PrQ1\obj\Debug\PrQ1.exe
+D:\prog\PrQ1\obj\Debug\PrQ1.pdb
